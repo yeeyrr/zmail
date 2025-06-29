@@ -8,7 +8,7 @@ compatibility_date = "2025-03-01"
 
 # 设置自定义域名
 routes = [
-  { pattern = "955866.xyz", custom_domain = true }
+  { pattern = "zmail.955866.xyz", custom_domain = true }
 ]
 
 # 启用 D1 数据库
