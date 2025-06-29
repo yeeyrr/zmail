@@ -8,7 +8,7 @@ compatibility_date = "2025-03-01"
 
 # 设置自定义域名
 routes = [
-  { pattern = "mail.mdzz.uk", custom_domain = true }
+  { pattern = "zmail.955866.xyz", custom_domain = true }
 ]
 
 # 启用 D1 数据库
@@ -19,7 +19,7 @@ database_id = "af2fa309-19f2-4f79-9ea2-fcc87c50c7e5"  # 需要替换为您的实
 
 # 设置域名
 [vars]
-VITE_EMAIL_DOMAIN = "mdzz.uk,zaunist.com"   # 替换为您的域名列表，多个域名使用逗号 , 分割。这里的域名只是用来网页上展示，方便复制粘贴使用。
+VITE_EMAIL_DOMAIN = "955866.xyz"   # 替换为您的域名列表，多个域名使用逗号 , 分割。这里的域名只是用来网页上展示，方便复制粘贴使用。
 
 # 配置邮件处理
 [triggers]
